@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AlexandrFedotov
+- 👀 I’m interested in software testing and quality assurance.
+- 
+- 📫 How to reach me: 
+- e-mail: alexandr_fedotov@internet.ru
+- phone number: +375291355330
